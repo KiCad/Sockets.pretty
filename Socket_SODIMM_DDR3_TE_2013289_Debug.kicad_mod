@@ -1,6 +1,7 @@
 (module Socket_TE_2013289_SODIMM_DDR3_Debug (layer F.Cu)
   (descr "DDR 3 SODIMM Memory Socket - TE P/N 2013289")
   (tags "DDR RAM SODIMM")
+  (attr smd)
   (fp_text reference J** (at -38.2 -2.4) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.2)))
   )
