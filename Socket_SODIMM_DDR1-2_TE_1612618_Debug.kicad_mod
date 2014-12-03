@@ -1,6 +1,7 @@
 (module Socket_TE_1612618_SODIMM_DDR1&2_Debug (layer F.Cu)
   (descr "DDR 1&2 SODIMM Memory Socket - TE P/N 1612618")
   (tags "DDR RAM SODIMM")
+  (attr smd)
   (fp_text reference J** (at -38.2 -2.4) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.2)))
   )
