@@ -2,10 +2,10 @@
   (descr "DDR 3 SODIMM Memory Socket - TE P/N 2013289")
   (tags "DDR RAM SODIMM")
   (attr smd)
-  (fp_text reference Socket_SODIMM_DDR3_TE_2013289 (at -38.2 -2.4) (layer F.SilkS)
+  (fp_text reference REF** (at -38.2 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 16 -7.4) (layer F.SilkS)
+  (fp_text value Socket_SODIMM_DDR3_TE_2013289 (at 16 -7.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
